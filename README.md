@@ -1,4 +1,15 @@
 ## softskills_feedback
+## Task-2
+
+COMPANY NAME : COURSEVITA
+
+NAME : PULAMARASETTI SHARMILA
+
+DOMAIN : TECH
+
+DURATION : 3MONTHS
+
+TRAINER NAME : RAKESH
 
 # Abstract: Feedback Prompt for Soft Skills & Teamwork
 Soft skills and teamwork are vital competencies in academic and professional settings. This project introduces an interactive feedback prompt system designed to assess individuals on key behavioral and collaborative parameters such as communication, listening, ownership, cooperation, and conflict resolution. The system enables peer or self-evaluation using a user-friendly interface that captures both quantitative ratings and qualitative comments.
